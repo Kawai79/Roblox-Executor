@@ -1,5 +1,0 @@
-Warning: Do NOT share these logs with anyone other than the developers. They may contain sensitive information such as but not limited to: Username, HWID, and Security Tokens.
-
-These logs are crash reports and are only helpful to the developers. You may delete these if needed.
-
-Thank you!
